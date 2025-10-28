@@ -45,8 +45,21 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1337" height="765" alt="image" src="https://github.com/user-attachments/assets/844bb806-9e41-4328-8394-46b8c4fa65d0" />
+
+
+<img width="1371" height="785" alt="image" src="https://github.com/user-attachments/assets/3ace848e-0f6c-4ad4-97a2-f35d0b6f8302" />
+
+
+<img width="1356" height="735" alt="image" src="https://github.com/user-attachments/assets/62d2e25d-2c05-41ca-9e66-31de6162d63f" />
+
+
+<img width="1426" height="509" alt="image" src="https://github.com/user-attachments/assets/615463ff-28f0-4e4a-ad15-2d0405a0edc6" />
+
+
+
+### Name: JAYASRI L
+### Register Number: 212224040136
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
